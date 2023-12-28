@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BatteryRegulator")(type "KiCad")(uri "${KIPRJMOD}/BatteryRegulator.kicad_sym")(options "")(descr ""))
+  (lib (name "CowTracking")(type "KiCad")(uri "${KIPRJMOD}/CowTracking.kicad_sym")(options "")(descr ""))
+)
